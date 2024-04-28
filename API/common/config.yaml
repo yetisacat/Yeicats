@@ -1,0 +1,7 @@
+#-   name: 测试环境
+#    base:
+#      base_url: http://192.168.0.105
+#    log:
+#      log_name: logs_
+#      log_level: info
+#      log_format: '未填写'

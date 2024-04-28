@@ -1,0 +1,11 @@
+#-   name: 文件上传
+#    request:
+#        method: post
+#        url:
+#        data: {}
+#        files:
+#          media: "文件地址"
+#    validate:
+#      - equals: {status_code: 200}
+#      - contains: url
+#      - contains: http

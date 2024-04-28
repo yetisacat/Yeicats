@@ -1,0 +1,9 @@
+-
+  name: 获得 token
+  request:
+    url: https://hospital.zhenjingai.com/zhenjing-platform/deviceUsage/info/23002800
+    data: None
+    payload: None
+    method: get
+    headers: Authorization
+  validata: None

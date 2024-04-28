@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 24 17:34:46 CST 2024","Wed Apr 24 17:34:46 CST 2024","178","API.testcases","get_info_test","","","","test_get_device_info",""
+"passed","Wed Apr 24 17:34:46 CST 2024","Wed Apr 24 17:34:47 CST 2024","228","API.testcases","get_info_test","","","","test_get_user_info",""
+"passed","Wed Apr 24 17:34:47 CST 2024","Wed Apr 24 17:34:48 CST 2024","852","API.testcases","login_test","Testjiami","","","test_login",""
+"passed","Wed Apr 24 17:34:47 CST 2024","Wed Apr 24 17:34:47 CST 2024","173","API.testcases","get_info_test","","","","test_getRouters",""

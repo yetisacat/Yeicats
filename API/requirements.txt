@@ -1,0 +1,8 @@
+# pytest:强大插件。
+#pytest-html 生成html测试报告
+#pytest-xdist 多线程运行
+#pytest-ordering 改变测试用例的执行顺序
+#pytest-rerunfailures 失败用例重跑
+#allure-pytest 生成allure测试报告
+
+#一次性安装命令:pip install -r  requirements.txt
