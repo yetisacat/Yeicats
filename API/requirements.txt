@@ -1,6 +1,6 @@
 # pytest:强大插件。
 #pytest-html 生成html测试报告
-#pytest-xdist 多线程运行
+#pytest-xdist 多线程运行,多CPU分发，测试用例分布式执行。
 #pytest-ordering 改变测试用例的执行顺序
 #pytest-rerunfailures 失败用例重跑
 #allure-pytest 生成allure测试报告
